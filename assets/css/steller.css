@@ -111,6 +111,21 @@ h1, h2, h3, h4, h5, h6 {
 .mb-0 {
   margin-bottom: 0!important;
 }
+.featured-box.style-3 {
+  padding-left: 90px;
+  padding-top: 0px;
+}
+.featured-box.style-1, .featured-box.style-2, .featured-box.style-3 {
+  padding-left: 50px;
+  padding-top: 8px;
+}
+.featured-box {
+  box-sizing: border-box;
+  position: relative;
+}
+.mb-5 {
+  margin-bottom: 3rem!important;
+}
 
 .w-100 {
   width: 100%!important;
